@@ -4,12 +4,12 @@
 **Ece**
 
 1. **Giriş Yapma**
-2. **Otobüs Arama** → Nereden → Nereye → Gidiş Tarihi (Takvim Seçimi)
+2. **Otobüs Arama** 
 3. **Fiyata Göre Sıralama**
-4. **Seferleri Listeleme** → Firma ve Koltuk Seçimi
+4. **Seferleri Listeleme** 
 5. **Ödeme Yapma**
-6. **Bilet Onayı** → SMS veya E-posta ile Bildirim
-7. **Yolcu Bilgilerini Kaydetme** → Kullanıcı Bilgisi Saklama
+6. **Bilet Onayı** 
+7. **Yolcu Bilgilerini Kaydetme** 
 8. **Sefer Detaylarını Görüntüleme**
 
 **Mine**
@@ -17,7 +17,7 @@
 1. **Kullanıcı Kayıt Olma**
 2. **Şifremi Unuttum**
 3. **Çıkış Yapma**
-4. **Kart Bilgilerini Kaydetme** → Ödeme Bilgisi Saklama
+4. **Kart Bilgilerini Kaydetme** 
 5. **Filtreleme**
 6. **Koltuk Seçimi**
 7. **Seferleri Listeleme**
