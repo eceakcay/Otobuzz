@@ -1,18 +1,18 @@
-# PROJE ADI 
+# Otobuzz
 
-**Proje Tanımı:** Projenin ne iş yaptığını anlatan bir paragraflık tanıtım metni. 
+**Proje Tanımı:** 
 
-Örnek: X isimli e-ticaret sitemiz, online alışveriş deneyimini kolay ve keyifli hale getirmek için tasarlandı. Geniş ürün yelpazemiz sayesinde müşterilerimize en iyi seçenekleri sunarken, kullanıcı dostu arayüzümüz ile de alışveriş yapmayı daha rahat hale getiriyoruz.Sitemizde yer alan ürünler, kaliteli ve güvenilir markaların en yeni ve trend ürünlerinden oluşuyor. Müşterilerimiz, aradıkları ürünleri hızlı ve kolay bir şekilde bulabilirken, aynı zamanda satın alma süreçlerinde de sorunsuz bir deneyim yaşayacaklar.Hızlı teslimat seçenekleri, güvenli ödeme sistemleri ve müşteri memnuniyetine önem veren satış sonrası hizmetlerimizle, X olarak müşterilerimizin beklentilerini en üst seviyede karşılamayı hedefliyoruz. Her zaman en iyi fiyatlarla, kaliteli ürünleri müşterilerimize sunmak için çalışıyoruz ve müşteri memnuniyeti bizim için her zaman önceliklidir.X e-ticaret sitemize hoş geldiniz, size hizmet vermek için sabırsızlanıyoruz.
+Otobuzz, kullanıcıların kolay ve güvenli bir şekilde otobüs bileti aramasını, satın almasını ve yönetmesini sağlayan bir mobil uygulamadır. Kullanıcılar kalkış ve varış noktalarını seçerek farklı otobüs firmalarının sunduğu seferleri karşılaştırabilir, koltuk seçimi yapabilir ve ödeme işlemlerini tamamladıktan sonra biletlerini alabilirler. Uygulama, kullanıcı dostu bir arayüze sahip olup, yolculuk detaylarını takip etmeyi, favori rotaları kaydetmeyi ve geçmiş biletleri görüntülemeyi mümkün kılar. Otobuzz, seyahat deneyimini daha kolay ve keyifli hale getirmek için tasarlanmıştır.
 
-**Proje Kategorisi:** Projenin hangi alanda yapıldığını belirten bir kategori. Örnek: E-Ticaret, Sosyal Medya vb. 
+**Proje Kategorisi:** Otobüs Bileti Satışı
 
-**Referans Uygulama:** [abc.com](abc.com)
+**Referans Uygulama:** Obilet
 
-**Uygulama Adresi:** [abc.com](abc.com)
+**Uygulama Adresi:** 
 
-**Grup Adı:** Belirlediğiniz grup adı
+**Grup Adı:** TechRoses
 
-**Proje Ekibi:** Ali, Veli, Selami, Ayşe, Fatma, Hayriye
+**Proje Ekibi:** Ece AKÇAY, Mine KIRMACI 
 
 1. [Gereksinim Analizi](Gereksinim-Analizi.md)
 2. [Durum Diyagramı](Durum-Diyagramı.md)
