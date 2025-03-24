@@ -22,7 +22,7 @@
     
     Kullanıcılar, seçtikleri sefer için otobüs içindeki boş koltukları görüntüleyerek istedikleri koltuğu rezerve edebilirler.
     
-7. **Seferleri Listeleme**
+7. **Sefer Bilgilerini Görüntüleme**
     
     Kullanıcılar, seçtikleri güzergâh ve tarihe uygun otobüs seferlerini detaylı olarak görüntüleyebilir. Seferler, firma, fiyat, kalkış saati ve yolculuk süresi gibi bilgilerle listelenir.
     
