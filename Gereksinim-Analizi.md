@@ -6,11 +6,11 @@
 1. **Giriş Yapma**
 2. **Otobüs Arama** 
 3. **Fiyata Göre Sıralama**
-4. **Sefer Detayı Görüntüleme** 
+4. **Firma ve Koltuk Seçimi** 
 5. **Ödeme Yapma**
 6. **Bilet Onayı** 
 7. **Yolcu Bilgilerini Kaydetme** 
-8. **Sefer Bilgileri**
+8. **Sefer Detayı Görüntüleme**
 
 **Mine**
 
