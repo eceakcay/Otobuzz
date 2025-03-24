@@ -1,1 +1,1 @@
-![Durum Diyagramõ](DurumDiyagramõ(Mine-Ece).jpeg)
+![Durum Diyagramõ](DurumDiyagramõ.jpeg)
