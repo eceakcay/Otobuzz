@@ -10,7 +10,7 @@
     
     Kullanıcılar, listelenen seferleri bilet fiyatına göre artan veya azalan şekilde sıralayarak kendilerine en uygun seçeneği bulabilir.
     
-4. **Seferleri Listeleme** → Firma ve Koltuk Seçimi
+4. **Firma ve Koltuk Seçimi** ->Card widget
     
     Kullanıcılara, seçtikleri güzergâh için mevcut otobüs firmaları ve koltuk düzenleri sunulur. Kullanıcılar, tercih ettikleri firmayı ve koltuğu seçebilir.
     
