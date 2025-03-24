@@ -1,3 +1,4 @@
-![Durum Diyagramı](DurumDiyagramı(Mine-Ece).drawio.png)
+![Durum Diyagramı](DurumDiyagramı(Mine-Ece).jpeg)
+
 
 
