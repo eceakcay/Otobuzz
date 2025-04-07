@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct home: View {
+struct Home: View {
     @ObservedObject private var viewModel = HomeViewModel()
     @State private var selectedTab: String = "Ara"
     
@@ -109,5 +109,5 @@ struct home: View {
 }
 
 #Preview {
-    home()
+    Home()
 }

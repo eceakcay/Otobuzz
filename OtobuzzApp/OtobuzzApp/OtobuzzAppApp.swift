@@ -12,7 +12,7 @@ struct OtobuzzAppApp: App {
 
     var body: some Scene {
         WindowGroup {
-            home()
+            Home()
         }
     }
 }

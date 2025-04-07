@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct profile: View {
+struct Profile: View {
     @State private var selectedTab: String = "Profilim"
     var body: some View {
         CustomNavigationBar(selectedTab: $selectedTab)
@@ -15,5 +15,5 @@ struct profile: View {
 }
 
 #Preview {
-    profile()
+    Profile()
 }
